@@ -2,3 +2,7 @@ PMCXML6.tsv
 structured_abstract_sections.pkl
 models
 clustering
+averages.npy
+embeddings.npy
+classifier_model.pth
+Processed_Headings
