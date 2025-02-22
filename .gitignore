@@ -6,3 +6,5 @@ averages.npy
 embeddings.npy
 classifier_model.pth
 Processed_Headings
+.ipynb_checkpoints
+checkpoints
