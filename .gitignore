@@ -8,3 +8,7 @@ classifier_model.pth
 Processed_Headings
 .ipynb_checkpoints
 checkpoints
+comparison
+classifier_model_lower.pth
+averages_lower.npy
+embeddings_lower.npy
