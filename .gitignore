@@ -12,3 +12,6 @@ comparison
 classifier_model_lower.pth
 averages_lower.npy
 embeddings_lower.npy
+average_model
+classifier_model
+middle_files
